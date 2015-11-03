@@ -1,7 +1,7 @@
 pygments: true
-permalink: /otter-pop/:year/:month/:day/:title
+permalink: /louis.github.io/:year/:month/:day/:title
 markdown: rdiscount
 exclude: ['.git']
-name: "Otter Pop"
-description: "The world's greated jekyll theme"
-url: http://tybenz.com/otter-pop
+name: "louis"
+description: "my mind world"
+url: http://louis.github.io
